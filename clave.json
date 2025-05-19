@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rosy-solstice-460423-u7",
+  "private_key_id": "b5684f280ed63c9390935bb694ec0a6decaa8b6e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDItl/xr1oTuSG4\ndk0zT9Plwi52Sc5/50WCQm4TKqBX8ExtKDkOGQofQoRqSZ4E7O1HeB+QYrLpYc03\n2hLFnwP7Nf34Zr+1+ZGj6E3JppJAMeS4JHeEhJNh0WWgD4pxc35kjIO3ue/tskdV\niESvyVbz/Y9N5GlWUQO5v323NcSUd7lxTmHJab+SKLeZ0GcZ+TYeaVRDgUdqZcZm\nk/rm4A6vsyYzOT9AzIKPIYdLkoJrNowz7CwIZ65MQg5fDTMzORWrXrsyDzLmokkw\nWp8Wf6/IOAXZPMoThCbcZwJw3SD/8pJfPDCn4vnlJy3L00PVQmwxxv5SBzPZaGZJ\nO2QpPWk5AgMBAAECggEAFAXtqGS/7bvIW2ih5v6NuxwWGoLecPAXhRkvdgYInP1C\nApnCp19kHR47q4bQltk0Cq83JuZRxuqU2H+O49wrP4JxZbiKY5MULm/cYsOVT4Yq\ntRweOEApm9aR9tfWDd9hupIyCcAo6WOhriy7/XVukUS4aSLiR1QptPwfhIl+pPjn\naIpThJrlsbbvB0Fgd2Y9v/U71awqVXiVwup1FoAqb+S5YGuJqpsRDia/BIvmyet9\n9R963F6nJUj6TjtMYwvR/4UByUd4XlwCr7wXXfM5mr/GP25DsTzJKhCezK20rhLI\nxOX2tik/kunplegfV3iCm6GWd+W5BKKxYLl1clQ1iQKBgQDseIUZmcUtic1/r5rM\nm3YoMGwt36Km26cTsO3m0B5QMNvBZCbLFeyJA9lI5BgkfWyiC3BrVf6k0UR2sLSo\n6FMBpx5duX4s9d8LB4e/Pms4KYSPkVdSUjzjrKf5pMdwCB6P33murmwDrwqjXiIO\nQM7eVY1ndHhhnx2mMkhPfVdqbwKBgQDZSdlVYl9U2PQNnotxldIup/Cg1WvSiNXo\nh2+67tjjOKD+9ZDERkFUQmHOSjtaLUnNUMHrnhGA/G89BwKHsd7BHFT8+ufiZM4q\nW03bxS8IQxnatQrbTuzMCqKSzzKI9agLSElgD4zSLokPkKFreVyHCqftG0KCkisw\nuWm3QRha1wKBgAJXezHytOIrkC5ohcbq7zOcryWRJmIyoKfwQ5raisJOiY6TuFKg\nh/QfZqJzJ84Ms+uy400cz+W/8MagH1ng2xmUFxfkg1xcnvXUAEMjkho/RwHI9a1q\nBRJYHl25hQQWAH96PhE9xvIOZLOTdhDgEWxgOoNAwwRsd/WyX8bxvdDfAoGBANfq\ndUdOWFK0v1clO4VkDhaElS0MxnbPuFe29YS4wNaROBICLJeNBG/ZAt19kBrcs+CM\nphYe3V/h+BuZcp8qVaJpJ9626GNkLiWS0vxWpZS9MNzOV/pzJAThcIkX0Sydhx2m\n+Bq3eQSGb3YDDxP/5bzfDt0i4GVlH/vr0qvhyHTDAoGBALRGnHqwUVdG1IZp1YoF\nxpbv76jCi0wmLpFQzOX5t6KqWe7JoK0iFhWvOS9kPIZuohmAB7YTQWKQKy04Cplu\n5e/ycnxp9SuaP34xCPBhLddDhpoW1mguo8J0Gt3z5aRelqI+HJ590Q5iGEdwyw6h\n4YsgH8ogSnqpVL14oVSSnaJZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "gaston@rosy-solstice-460423-u7.iam.gserviceaccount.com",
+  "client_id": "105874913067686080800",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gaston%40rosy-solstice-460423-u7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
